@@ -14,5 +14,5 @@
  </div>
  </div>
  </div>
- <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.3/js.cookie.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
  <script src="ohioModal.js"></script>';?>
